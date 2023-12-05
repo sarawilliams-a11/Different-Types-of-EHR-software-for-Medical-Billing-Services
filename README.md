@@ -1,6 +1,6 @@
 # create-EHR-software
 In this gist, I provide code to make an ehr software for medical billing
-How to create Software for <a href=''https://billingfreedom.com/ob-gyn-medical-billing-services/''>EHR medical billing</a>.
+How to create Software for <a href=''https://billingfreedom.com/ob-gyn-medical-billing-services/''>EHRmedicalbilling</a>.
 Creating Electronic Health Record (EHR) software for medical billing is a complex task that involves integrating various components to ensure accurate, secure, and efficient management of patient data and billing processes. Here's a comprehensive guide on how to embark on developing EHR software specifically tailored for medical billing.
 
 Define Requirements:
